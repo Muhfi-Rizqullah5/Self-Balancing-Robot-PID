@@ -43,5 +43,16 @@ Program ditulis menggunakan **Arduino IDE (C++)** dan memanfaatkan library:
 4.  Muhammad Irsyaddhia Fahlevi
 5.  **Muhfi Fawwaz Rizqullah**
 
+## 🔌 Skema Rangkaian (Wiring Diagram)
+Berikut adalah detail koneksi kabel antara komponen (Arduino, L298N, MPU6050):
+
+![Wiring Diagram](wiring_diagram.png)
+
 ---
-*Fakultas Ilmu Komputer - Universitas Brawijaya (2025)*
+
+## 🎥 Video Demo Robot
+Lihat bagaimana robot ini menyeimbangkan diri secara otomatis dalam video berikut:
+
+### [▶️ Tonton Video Demo di YouTube] https://youtube.com/shorts/0nAdDa0303k?feature=share
+
+*(Klik link di atas untuk melihat video pengujian)*
