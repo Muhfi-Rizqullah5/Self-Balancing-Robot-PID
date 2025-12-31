@@ -46,7 +46,7 @@ Program ditulis menggunakan **Arduino IDE (C++)** dan memanfaatkan library:
 ## 🔌 Skema Rangkaian (Wiring Diagram)
 Berikut adalah detail koneksi kabel antara komponen (Arduino, L298N, MPU6050):
 
-![Wiring Diagram](wiring_diagram.png)
+![Wiring Diagram]
 
 ---
 
